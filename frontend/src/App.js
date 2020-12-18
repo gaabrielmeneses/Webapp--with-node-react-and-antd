@@ -1,7 +1,7 @@
+import React from 'react'
 import { 
 	Layout, 
-	Menu, 
-	Breadcrumb
+	Menu
 } from 'antd'
 import Listagem from './components/Listagem'
 
